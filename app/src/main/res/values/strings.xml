@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kotlin 1</string>
+    <string-array name="sabores">
+        <item>Comando 1</item>
+        <item>Comando 2</item>
+        <item>Comando 3</item>
+        <item>Comando 4</item>
+
+    </string-array>
+</resources>
